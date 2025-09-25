@@ -1,0 +1,41 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "青梅产业平台"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "永泰青梅产业服务"
+			}
+		},
+		{
+			"path": "pages/tools/tools",
+			"style": {
+				"navigationBarTitleText": "产业工具"
+			}
+		},
+		{
+			"path": "pages/cooperation/cooperation",
+			"style": {
+				"navigationBarTitleText": "校企农协同"
+			}
+		},
+		{
+			"path": "pages/about/about",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "transparent",
+		"navigationStyle": "custom",
+		"backgroundColor": "#F6FFED"
+	}
+}
